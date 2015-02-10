@@ -7,19 +7,22 @@
 - Helps you write code faster
 - Plays nice with rails and angular
 
-# Some of the Basics
+### Some of the Basics
 
 - No more curly braces, no more semi-colons, and way less parenthesis. 
+- Writing functions (as function expressions) with '->'
 -- Example: 
-- JS: 
+-- JS: 
 ```
 var funName = function() {
   return 'This is a function!';
 }
 ```
 
-- CS:
+-- CS:
 ``` 
 funName = ->
   'This is a function'
-```		
+```
+
+
